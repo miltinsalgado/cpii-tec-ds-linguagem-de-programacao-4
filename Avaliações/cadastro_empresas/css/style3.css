@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    color: white;
+    background-color: #27282D;
+}
+
+h2,p {
+    padding-bottom: 20px;
+}
+
+.termos{
+    font-size: small;
+    padding-bottom: 20px;
+    color: whitesmoke;
+}
+
+.dados{
+    font-size: medium;
+    padding: 20px;
+}
+
+.dados [name="voltar"]{
+    font-size: large;
+    float: left;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 49%;
+    height: 50px;
+    background-color: white;
+    color: #006eff;
+    cursor: pointer;
+    border: 0;
+    border-radius: 20px;
+}
+
+.dados [name="concluir"]{
+    font-size: large;
+    float: right;
+    margin-top: 20px;
+    width: 50%;
+    max-width: 49%;
+    height: 50px;
+    background-color: #006eff;
+    color: white;
+    cursor: pointer;
+    border: 0;
+    border-radius: 20px;
+}
+
+.dados [name="termos"]{
+    height: 15px;
+    width: 15px;
+    background-color: #eee;
+    cursor: pointer;
+    border-radius: 20px;
+}

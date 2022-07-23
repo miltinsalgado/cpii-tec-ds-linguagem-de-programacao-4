@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" lang="PT-BR">
+        <title>Tela Inicial</title>
+        <link rel="shortcut icon" type="image/icon" href="../img/icone-usuarios.png"/>
+        <link rel="stylesheet" type="text/css" href="../css/index.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="form">
+            <h2>Sistema de Cadastro</h2>
+            <form method="POST" action="../php/login.php">
+                <label>Usuário <input type="text" name="username" id="username" placeholder="Digite seu nome de usuário" maxlength="20" required></label>
+                <br>
+                <label>Senha <input type="password" name="password" id="password" placeholder="Digite sua senha" maxlength="8" required></label>
+                <br>
+                <input type="submit" id="submit" value="Deletar">
+            </form>
+        </div>
+    </body>
+</html>

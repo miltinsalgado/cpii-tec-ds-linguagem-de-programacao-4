@@ -1,0 +1,13 @@
+Informações do trabalho:
+Dupla: Milton Salgado e Daniel
+Turma: IN-311
+Professor: Cláudio
+Data de Entrega: 12/10/2021 (Milton teve problemas pessoais e atrasou o envio, ao mesmo tempo que o Gmail e o Hotmail atrapalhava no envio de arquivos)
+
+Sistema de Cadastro de Empresas:
+1° Página: HTML
+2° Página: PHP
+3° Página: PHP
+
+CSS: Usado em Todas as Páginas
+JS:  Usado nas Páginas PHP

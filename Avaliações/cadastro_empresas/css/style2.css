@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    color: white;
+    background-color: #27282D;
+}
+
+.form{
+    text-align: center;
+    padding: 20px;
+}
+
+.left p{
+    text-align: left;
+    padding-left: 5px;
+}
+
+.left{
+    padding-left: 400px;
+    padding-right: 10px;
+    width: 50%;
+    float: left;
+}
+
+.right p{
+    text-align: left;
+    padding-left: 5px;
+}
+
+.right{
+    padding-right: 400px;
+    padding-left: 10px;
+    width: 50%;
+    float: right;
+}
+
+.termos{
+    font-size: small;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.form [type=text], 
+.form [type=email],
+.form [type=number],
+.form select{
+    width: 100%;
+    max-width: 500px;
+    height: 35px;
+    margin: 10px auto;
+    padding-left: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.left [type="button"]{
+    margin-top: 20px;
+    width: 100%;
+    max-width: 500px;
+    height: 50px;
+    background-color: white;
+    color: #006eff;
+    cursor: pointer;
+    border: 0;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.right [type="submit"]{
+    margin-top: 94px;
+    width: 100%;
+    max-width: 500px;
+    height: 50px;
+    background-color: #006eff;
+    color: white;
+    cursor: pointer;
+    border: 0;
+    border-radius: 20px;
+    font-size: 15px;
+}

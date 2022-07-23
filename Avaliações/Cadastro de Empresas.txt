@@ -1,0 +1,5 @@
+Site de Cadastro de Empresas
+-Tecnologias: PHP, HTML, CSS E JS
+
+Modelo: Três telas, entrada e processamento nas duas primeiras, saída na terceira.
+Armazenar dados das variáveis dos campos dos formulários e exibir ao final.
